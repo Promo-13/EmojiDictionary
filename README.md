@@ -1,5 +1,6 @@
 # EmojiDictionary
-This is used for understanding the meanings of the emojis.
+1. This is created while understanding the concept of react props and mapping of data.
+2. This is used for understanding the meanings of the emojis.
 
 ## Installation
 1. Clone this repository to your local machine.
