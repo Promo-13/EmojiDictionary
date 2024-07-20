@@ -1,6 +1,6 @@
 # EmojiDictionary
 ## Fun fact:
-This is created while understanding the concept of react props and mapping of data.
+This was created while understanding the concept of react props and mapping of data.
 
 ## Installation
 1. Clone this repository to your local machine.
